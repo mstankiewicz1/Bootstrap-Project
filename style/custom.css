@@ -98,6 +98,7 @@ p {
 
 .portfolio-subheader {
     margin: .4rem 0 1rem;
+    font-size: 1.1rem;
 }
 .portfolio-button {
     margin: .5rem 0;
@@ -152,11 +153,11 @@ p {
 }
 
 .footer-first-col li i {
-    margin-right: .75rem;
+    margin-right: 1rem;
 }
 
 .footer-second-col li {
-    padding: 0 .8rem;
+    padding: 1rem 0;
     width: 90%;
     border-bottom: 1px solid #777777;
 }
@@ -173,6 +174,16 @@ p {
     display: inline-block;
     margin-right: .5rem;
     font-weight: 700;
+}
+
+/**Copyright**/
+
+.copyright {
+    padding: 30px 0;
+}
+
+.copyright-designed {
+    font-size: .85rem;
 }
 
 
